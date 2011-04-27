@@ -1,5 +1,5 @@
 '''
-Pull out set of rows (country-year) with, at least, one observation and write
+Pull out countries with at least one completely empty row and write
 them out in .dat format
 '''
 
