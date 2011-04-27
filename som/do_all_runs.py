@@ -7,7 +7,7 @@ if sys.platform == 'darwin':
     data = '/Users/dani/Desktop/WDlandGDF_processed/wbALL_no_emptiesZ.dat'
     data = '/Users/dani/Desktop/WDlandGDF_processed/wbALL_no_empties_short_mini.dat'
 
-    nameO='/Users/dani/Desktop/AAA/LargeData/WDlandGDF_processed/som1'
+    nameO='/Users/dani/Desktop/LargeData/WDlandGDF_processed/som1'
 
 elif sys.platform == 'linux':
     somPakF='/home/dani/repos/som_pak-3.1/'
